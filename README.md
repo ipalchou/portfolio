@@ -15,4 +15,4 @@ Data visualization and presentation techniques are very important in todays time
 
 You can view all my data visualization assignments and projects here. 
 
-<a href="httep:\\google.com">Link to final project</a>
+<a href="https://www.google.com/" target="_blank">Link to final project</a>
