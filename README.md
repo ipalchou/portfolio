@@ -15,7 +15,7 @@ Data visualization and presentation techniques are very important in todays time
 
 You can view all my data visualization assignments and projects here. 
 
-Here is my first data visualization on covid data created using Flourish studio
+# 1. Here is my first data visualization on covid data created using Flourish studio
 <div class="flourish-embed flourish-chart" data-src="visualisation/7639959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <a href="https://www.google.com/" target="_blank">Link to final project</a>
