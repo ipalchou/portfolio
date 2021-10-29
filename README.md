@@ -18,7 +18,8 @@ You can view all my data visualization assignments and projects here.
 # 1. Here is my first data visualization on covid data created using Flourish studio
 <div class="flourish-embed flourish-chart" data-src="visualisation/7639959"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# 2. Assignment 2, General Goverment Debt from OECD Website
+# 2. Assignment 2
+# General Goverment Debt from OECD Website
 <iframe src="https://data.oecd.org/chart/6vl2" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vl2" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 <a href="https://www.google.com/" target="_blank">Link to final project</a>
