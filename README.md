@@ -23,8 +23,7 @@ You can view all my data visualization assignments and projects here.
 <iframe src="https://data.oecd.org/chart/6vl2" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vl2" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 # General Goverment Debt Flourish
-<div class="flourish-embed flourish-chart" data-src="visualisation/7674244"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-# General Goverment Debt Flourish -my own visualization
+<div class="flourish-embed flourish-chart" data-src="visualisation/7674244"><script src="https://public.flourish.studio/resources/embed.js"></script></div># General Goverment Debt Flourish -my own visualization
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7676095"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <a href="https://www.google.com/" target="_blank">Link to final project</a>
