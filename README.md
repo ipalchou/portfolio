@@ -28,5 +28,11 @@ The graph shows Debt to GDP ration for each countries from the year 1998 to 2018
 # General Goverment Debt Flourish -my own visualization
 Hover on each year. Click on each year's box to get accurate figures of the debt to gdp ration of each country
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7676095"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+# Why i chose the third data visualization
+I chose the third data visualization as a Treemap. The previous line graph was giving out too much information to the user and the user needs to go around all graphs to read the information. It is not necessary for the user see all graphs at once. A user may be interest in looking at the Highest GDP for year 2016 per se. They can look at the Tree for 2016 and see that Japan has the highest debt to GDP ratio since the area of rectangle of Japan is the largest.
+The Treemap is given color scheme from light green to darker shades of green where each shade represents a decade. eg, 1995-2000 is light green, 2001-2010 is dark green and so on.
+Each Tree is assigned to a year. And each tree has countries where larger the area of a rectangle of a country, greater is their GDP. This will at once give out the information that at any particular year, that country has the highest debt to gdp ratio. 
+If the user wants to dig in more, they can click on each tree and an enlarged view of the tree for any particular year will come up. They can hover at any rectangle inside the tree to see the Debt to gdp ration precisely.
+I chose green color as i identify green color with money and it would fit the context of Debt to GDP ratio.
 
 <a href="https://www.google.com/" target="_blank">Link to final project</a>
