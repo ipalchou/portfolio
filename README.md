@@ -24,4 +24,8 @@ You can view all my data visualization assignments and projects here.
 
 # Flourish
 <div class="flourish-embed flourish-chart" data-src="visualisation/7674244"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# General Goverment Debt my own visualization
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7676095"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <a href="https://www.google.com/" target="_blank">Link to final project</a>
