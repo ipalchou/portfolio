@@ -1,3 +1,5 @@
+# Assignment 3 & 4
+
 The data visualization I have chosen is from the WHO website on covid cases. I have specifically chosen the visualization under 'Situation by WHO Region' .
 ![image](https://user-images.githubusercontent.com/92895925/140662813-c1631520-8eb6-427c-84e3-af60e140e464.png)
 
