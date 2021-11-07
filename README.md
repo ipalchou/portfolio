@@ -35,4 +35,7 @@ Each Tree is assigned to a year. And each tree has countries where larger the ar
 If the user wants to dig in more, they can click on each tree's border and an enlarged view of the tree for any particular year will come up. They can hover at any rectangle inside the tree to see the Debt to gdp ration precisely.
 I chose green color as i identify green color with money and it would fit the context of Debt to GDP ratio.
 
+# Assignment 3 & 4: Critique by Design
+<a href="https://ipalchou.github.io/portfolio/Assingment34.html"> Link to Assignment 3 & 4</a>
+
 <a href="https://www.google.com/" target="_blank">Link to final project</a>
