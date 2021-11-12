@@ -14,18 +14,25 @@ Visualization 7: Lastly I want to show that bangladesh is the third largest expo
 
 # Initial sketches
 Visualization 1:
+
 ![image](https://user-images.githubusercontent.com/92895925/141526722-c013224a-f415-49c0-ac14-5f4bb540d975.png)
 Visualization 2:
+
 ![image](https://user-images.githubusercontent.com/92895925/141210048-f5fc5c53-daeb-4c42-a80f-d6e0c74658ea.png)
 Visualization 3:
+
 ![image](https://user-images.githubusercontent.com/92895925/141526772-75a44fd4-e250-4498-ae5c-00ac37f79cb5.png)
 Visualization 4:
+
 ![image](https://user-images.githubusercontent.com/92895925/141526807-b0385773-86bb-4966-b748-a947d4b6ec57.png)
 Visualization 5:
+
 ![image](https://user-images.githubusercontent.com/92895925/141526838-4d3f2219-ffca-4a58-8652-2bcd4a9ad82d.png)
 Visualization 6:
+
 ![image](https://user-images.githubusercontent.com/92895925/141526879-d19d1754-5563-46ee-a8b9-0625f428227a.png)
 Visualization 7:
+
 ![image](https://user-images.githubusercontent.com/92895925/141526905-d09cb4ae-af5a-4bb4-9f61-8ebbd56a7229.png)
 
 # Data
