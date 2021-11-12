@@ -22,18 +22,23 @@ Visualization 2:
 Visualization 3:
 
 ![image](https://user-images.githubusercontent.com/92895925/141526772-75a44fd4-e250-4498-ae5c-00ac37f79cb5.png)
+
 Visualization 4:
 
 ![image](https://user-images.githubusercontent.com/92895925/141526807-b0385773-86bb-4966-b748-a947d4b6ec57.png)
+
 Visualization 5:
 
 ![image](https://user-images.githubusercontent.com/92895925/141526838-4d3f2219-ffca-4a58-8652-2bcd4a9ad82d.png)
+
 Visualization 6:
 
 ![image](https://user-images.githubusercontent.com/92895925/141526879-d19d1754-5563-46ee-a8b9-0625f428227a.png)
+
 Visualization 7:
 
 ![image](https://user-images.githubusercontent.com/92895925/141526905-d09cb4ae-af5a-4bb4-9f61-8ebbd56a7229.png)
+
 
 # Data
 1. https://statisticstimes.com/economy/projected-world-gdp-ranking.php - This website has data of GDP of all countries in Billion USD.I plan to pick a few developed countries along with Bangladesh and highlight where bangladesh currently stands. 
