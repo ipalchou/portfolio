@@ -29,8 +29,11 @@ Visualization 7:
 ![image](https://user-images.githubusercontent.com/92895925/141526905-d09cb4ae-af5a-4bb4-9f61-8ebbd56a7229.png)
 
 # Data
-1. https://statisticstimes.com/economy/projected-world-gdp-ranking.php
-2. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BD
-3. https://data.worldbank.org/indicator/SL.TLF.TOTL.IN?locations=BD
-4. https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?locations=BD
-5. https://www.statista.com/statistics/987707/bangladesh-export-value-garments/
+1. https://statisticstimes.com/economy/projected-world-gdp-ranking.php - This website has data of GDP of all countries in Billion USD.I plan to pick a few developed countries along with Bangladesh and highlight where bangladesh currently stands. 
+2. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BD - This website is uded to export data on the GDP growth of bangladesh . The data has been exported to excel. The idea behind this visualization is to show how bangladesh is continously improving over the years.
+3. https://data.worldbank.org/indicator/SL.TLF.TOTL.IN?locations=BD - This website is used to show case that the employment in bangladesh has improved significantly over the years and garments export is a major reason behind it.
+4. https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?locations=BD - This website is used to extract data about the contribution of exports as a percent in the GDP of bangldesh. This will try to stress on the point that export especially in the garment industry is the driving factor of the economy.
+5. https://www.statista.com/statistics/987707/bangladesh-export-value-garments/ - This website is used to extract data on the export value of garments in bangladesh as Billion USD. The intent is to show the trend of increase in the value of exports over the years.
+
+# Method and medium
+
