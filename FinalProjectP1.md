@@ -44,3 +44,7 @@ Visualization 7:
 
 # Method and medium
 
+I plan to start cleaning my data first in order to build visualizations. Most of the data I have are in excel format but there are few which are present as data in news article. 
+I need to extract those data and use it in my visualizations. I plan to use both flourish and tableau to create the charts for my visualization. I will make use of meaningful labels as it is very important in my case to convey the right message and context. I will using shorthand to do the entire story telling of my data.
+  As of now , I dont plan to use any power point presentation. My concept of representing the growth of a country can be well represented by just the numbers in my chart and appropriate labels. I believe shorthand, tableau and flourish will be all I need for the final project presentation.
+
