@@ -1,27 +1,36 @@
-# Bangladesh - Small country, big difference.
-I want to present a story of a country in South East Asia called Bangladesh. Bangladesh is making exemplary progress to raise its GDP. It is the second largest garment exported in the world.
-More than 20% of the GDP of bangladesh comes from exporting Garments. 
-In my story, i would like to first present where Bangladesh stands in terms of GDP in the whole world . 
-I want to point out the total workforce of bangladesh. Minimum wage of workers in bangladesh. Finally how much garments does it export every year and what value does that export have in the whole world.
+# Bangladesh - A story of growth.
 
-![image](https://user-images.githubusercontent.com/92895925/141210048-f5fc5c53-daeb-4c42-a80f-d6e0c74658ea.png)
+# Outline
+I want to present a story of a country in South East Asia called Bangladesh.Bangladesh is exemplary in terms of its GDP Growth rate and its overall growth in the world. It is the third largest garment exported in the world.More than 20% of the GDP of bangladesh comes from exporting Garments. My Visualizations will talk about all these aspects of bangladesh.
+I have around 7 visualizations in my story. 
+Visualization 1: In this , I want to first highlight about where Bangladesh stands in GDP Ranking as compared to a few major.
+Visualization 2: Next I want to show the how the GDP of bangladesh has been increasing in Billion USD from 2011 to 2020.
+Visualization 3: Next I want to see the increase in the salaried population of bangladesh from 2011 to 2020.
+Visualization 4: Next I want to highlight the population working in the garment industry. I also want to bring to the attention of the viewer that 80% of this population are women. The reference for this data was taken from https://borgenproject.org/garment-industry-in-bangladesh/
+Visualization 5: Next I want to show the trend of exports in bangladesh from 2016 to 2020 and what percentage of those exports are exports of garments.
+In my story, i would like to first present where Bangladesh stands in terms of GDP in the whole world . Some data has been referred from https://www.researchgate.net/figure/RMG-export-and-its-share-in-export-of-Bangladesh-1985-2019_fig1_350156796.
+Visualization 6:  Next I want to showcase what is the value of export in Billion USD. of each year from 2011 to 2020.
+Visualization 7: Lastly I want to show that bangladesh is the third largest exporter of garments in the world only after China and EU. This is something which is common knowledge available accross web . But i just want to convey this using visualization.
 
+# Initial sketches
+Visualization 1:
 ![image](https://user-images.githubusercontent.com/92895925/141526722-c013224a-f415-49c0-ac14-5f4bb540d975.png)
+Visualization 2:
+![image](https://user-images.githubusercontent.com/92895925/141210048-f5fc5c53-daeb-4c42-a80f-d6e0c74658ea.png)
+Visualization 3:
 ![image](https://user-images.githubusercontent.com/92895925/141526772-75a44fd4-e250-4498-ae5c-00ac37f79cb5.png)
+Visualization 4:
 ![image](https://user-images.githubusercontent.com/92895925/141526807-b0385773-86bb-4966-b748-a947d4b6ec57.png)
+Visualization 5:
 ![image](https://user-images.githubusercontent.com/92895925/141526838-4d3f2219-ffca-4a58-8652-2bcd4a9ad82d.png)
+Visualization 6:
 ![image](https://user-images.githubusercontent.com/92895925/141526879-d19d1754-5563-46ee-a8b9-0625f428227a.png)
+Visualization 7:
 ![image](https://user-images.githubusercontent.com/92895925/141526905-d09cb4ae-af5a-4bb4-9f61-8ebbd56a7229.png)
 
-
-
-
-
-
-
 # Data
-https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=BD&start=2020&view=bar
-https://www.statista.com/statistics/987707/bangladesh-export-value-garments/
-https://statisticstimes.com/economy/projected-world-gdp-ranking.php
-https://borgenproject.org/garment-industry-in-bangladesh/
-https://www.researchgate.net/figure/RMG-export-and-its-share-in-export-of-Bangladesh-1985-2019_fig1_350156796
+1. https://statisticstimes.com/economy/projected-world-gdp-ranking.php
+2. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BD
+3. https://data.worldbank.org/indicator/SL.TLF.TOTL.IN?locations=BD
+4. https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?locations=BD
+5. https://www.statista.com/statistics/987707/bangladesh-export-value-garments/
