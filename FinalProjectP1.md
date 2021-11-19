@@ -49,7 +49,59 @@ Visualization 7:
 
 # Method and medium
 
-I plan to start cleaning my data first in order to build visualizations. Most of the data I have are in excel format but there are few which are present as data in news article. 
+
 I need to extract those data and use it in my visualizations. I plan to use both flourish and tableau to create the charts for my visualization. I will make use of meaningful labels as it is very important in my case to convey the right message and context. I will using shorthand to do the entire story telling of my data.
   As of now , I dont plan to use any power point presentation. My concept of representing the growth of a country can be well represented by just the numbers in my chart and appropriate labels. I believe shorthand, tableau and flourish will be all I need for the final project presentation.
+  
+  
+# Part II, Final project wireframes / storyboards and user research
 
+Wireframes and storyboards
+<a href="https://preview.shorthand.com/crp23trIQYHd7Pxx">Here is the link to the draft I created in shorthand</a>
+
+User research and interviews
+
+User 1: Male, student at Heinz, 25 years old.
+- Can you tell me what you think this is?
+Story of growth of Bangladesh.
+
+- Can you describe to me what this is telling you?
+ Bangladesh as a country grew in terms of GDP, salary, and exports over the years.
+
+- Is there anything you find surprising or confusing?
+In 2020 GDP of Bangladesh was more than Italy, Japan surprised me.
+
+- Who do you think is the intended audience for this?
+New entrants in the textile industry.
+
+- Is there anything you would change or do differently?
+I would recommend 
+1. Adding numbers in the 'GDP Growth in Bangladesh from 1994 to 2020 (Billion USD)' graph to make it more clear.
+2. What is the RMG sector? Mention full form and maybe brief about what it is.
+3. Instead of adding all animations at the end of the page add specific animations just below the relevant explanation (for eg. animation of jeans below the '3 Largest garment exporters in the world' section would make more sense.
+
+User 2: Male, student at Heinz, 25 years old.
+- Can you tell me what you think this is? - When, I was casually browsing through the website, from the title I could understand that you were going to talk about Bangaldesh.
+- Can you describe to me what this is telling you? As per my understanding, I could understand that you are trying to convey about how Bangladesh as a country is growing and the factors that are involved in its growth, by talking about all the positive factors that are contributing towards its growth. 
+- Is there anything you find surprising or confusing? Only thing that I found confusing at first was, why were you comparing Bangladesh with only the strong nations, until I read the underline description. I was suprised to see the way you had built up the story, where first you started with a broader topic and then narrowed it down to one single sector (in your case the exports).
+- Who do you think is the intended audience for this? Someone who would want to know about GDPs (students who are studying social studies ) or the economists, like the people who know the basics of economics and can comprehend and draw significance from the projected growth.
+- Is there anything you would change or do differently? If you could talk more about RMG Sector, because I wasn't aware about what it is ?
+
+User 3: Female, student at Heinz, 27 years old.
+- Can you tell me what you think this is?
+How is bangladesh affecting the worlds export industry and how has it improved overtime. Number of female workers more compared to male.
+- Can you describe to me what this is telling you?
+- That Bangladesh is propespering.
+- Is there anything you find surprising or confusing?
+   What is RMG. The visualization which shows export value , should mention that it is export value of Bangladesh.
+- Who do you think is the intended audience for this?
+A person in ready sector who wants to see where bangladesh stands in rmg export sector.
+- Is there anything you would change or do differently?
+No
+
+
+What I plan to do differently:
+1.  I think I will get rid of the first graph comparing Bangladesh to major countries because it may not make sense to the audience why is Bangladesh being compared to these countries. A user has even misinterpreted an information that Bangladesh had higher GDP than Italy and Japan . I m9igh modify the graph to arrange it by order and add a line to denoted the average GDP of 2020 to make more sense or might get rid of this Graph entirely.
+2.  I will add the information that RMG is Ready Made garment.
+3.   I will re-think all the labels.
+4.   I will make the animations consistent across all the visualizations. Right now I just have the draft version.
