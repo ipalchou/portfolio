@@ -105,3 +105,18 @@ What I plan to do differently:
 2.  I will add the information that RMG is Ready Made garment.
 3.   I will re-think all the labels.
 4.   I will make the animations consistent across all the visualizations. Right now I just have the draft version.
+
+Changes made since part II
+1.	In the part II of my project, the first chart which compared Bangladesh with developed countries such as USA, China, Italy wasn’t well interpreted by the audience who critiqued the story. It misled some people to think that Bangladesh has better GDP than USA ,Italy. Hence I removed the graph from my story as I thought it will be more useful to focus on just Bangladesh’s GDP.
+2.	I used a Line graph for my first visualization as I thought it would clearly reflect the growth of Bangladesh’s GDP. 
+3.	I used a scatter plot to reflect the growth in salaried population. 
+4.	I plan to mention during presentation that there was a dip in GDP and employment in 2020 due to covid.
+5.	I created the diagram to reflect total population working in garment manufacturing using Paint. I thought it can be the simplest visualization to put forth the idea that 80% of the population is that of female.
+6.	I have used a mix of Tableau , flourish , paint and Canva in creating my story in shorthand.
+7.	There was another point mentioned during critique that it wasn’t clear what RMG means and I added the acronym of RMG in my story.
+8.	I also reduce the GIF’s from the final slide to make it look subtle. 
+9.	I tried to maintain consistency with respect to font, style and color throughout the story.
+10.	The audience for my story is literally everyone who wants to improve their general knowledge. 
+11.	I have also added a call to action where I mention that Bangladesh has many other goals to accomplish.
+
+<a href="https://carnegiemellon.shorthandstories.com/bangladesh/index.html">Link to final story:</a>
