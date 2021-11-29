@@ -38,5 +38,8 @@ I chose green color as i identify green color with money and it would fit the co
 # Assignment 3 & 4: Critique by Design
 <a href="https://ipalchou.github.io/portfolio/Assingment34.html"> Link to Assignment 3 & 4</a>
 
-# Final Project
-<a href="https://carnegiemellon.shorthandstories.com/bangladesh/index.html" target="_blank">Click here to view my final project</a>
+# My journey towards creating the final project
+<a href="https://ipalchou.github.io/portfolio/FinalProjectP1.html" target="_blank">Click here to view how i created the final project</a>
+
+# Final Project in Shorthand
+<a href="https://carnegiemellon.shorthandstories.com/bangladesh/index.html" target="_blank">Click here to view my final project in Shorthand</a>
