@@ -106,6 +106,8 @@ What I plan to do differently:
 3.   I will re-think all the labels.
 4.   I will make the animations consistent across all the visualizations. Right now I just have the draft version.
 
+# Part III
+
 Changes made since part II
 1.	In the part II of my project, the first chart which compared Bangladesh with developed countries such as USA, China, Italy wasn’t well interpreted by the audience who           critiqued the story. It misled some people to think that Bangladesh has better GDP than USA ,Italy. Hence I removed the graph from my story as I thought it will be more         useful to focus on just Bangladesh’s GDP.
 2.	I used a Line graph for my first visualization as I thought it would clearly reflect the growth of Bangladesh’s GDP. 
@@ -118,5 +120,15 @@ Changes made since part II
 9.	I tried to maintain consistency with respect to font, style and color throughout the story.
 10.	The audience for my story is literally everyone who wants to improve their general knowledge. 
 11.	I have also added a call to action where I mention that Bangladesh has many other goals to accomplish.
+
+Reference material used : 
+https://statisticstimes.com/economy/projected-world-gdp-ranking.php 
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=BD
+https://data.worldbank.org/indicator/SL.TLF.TOTL.IN?locations=BD
+https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?locations=BD
+https://www.statista.com/statistics/987707/bangladesh-export-value-garments/
+https://borgenproject.org/garment-industry-in-bangladesh/
+https://www.researchgate.net/figure/RMG-export-and-its-share-in-export-of-Bangladesh-1985-2019_fig1_350156796
+
 
 <a href="https://carnegiemellon.shorthandstories.com/bangladesh/index.html">Link to final story:</a>
