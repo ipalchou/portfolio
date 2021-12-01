@@ -113,13 +113,14 @@ Changes made since part II
 2.	I used a Line graph for my first visualization as I thought it would clearly reflect the growth of Bangladesh’s GDP. 
 3.	I used a scatter plot to reflect the growth in salaried population. 
 4.	I plan to mention during presentation that there was a dip in GDP and employment in 2020 due to covid.
-5.	I created a pie chart in flourish to reflect total population working in garment manufacturing using Paint. I thought it can be the simplest visualization to put forth the       idea that 80% of the population is that of female. Initially I did this using paint but pie chart is giving it a better look. The decision to move from paint to flourish was     done after having critiqued by another person. The similar feedback was used to change my last visualization where I used packed circles in flourish to point that Bangladesh     is the second largest Garments exporter in the world. The graph which denoted the export value of Bangladesh was changed from Treemap to bar chart.
+5.	I created a pie chart in flourish to reflect total population working in garment manufacturing using Paint. I thought it can be the simplest visualization to put forth the       idea that 80% of the population is that of female. Initially I did this using paint but pie chart is giving it a better look. The decision to move from paint to flourish was     done after having critiqued by another person. The similar feedback was used to change my last visualization where I used packed circles in flourish to point that Bangladesh     is the second largest Garments exporter in the world. The graph which denoted the export value of Bangladesh was changed from Treemap to bar chart. 
 6.	I have used a mix of flourish and Canva in creating my story in shorthand.
-7.	There was another point mentioned during critique that it wasn’t clear what RMG means and I added the acronym of RMG in my story.
-8.	I also reduce the GIF’s from the final slide to make it look subtle. 
-9.	I tried to maintain consistency with respect to font, style and color throughout the story.
-10.	The audience for my story is literally everyone who wants to improve their general knowledge. 
-11.	I have also added a call to action where I mention that Bangladesh has many other goals to accomplish.
+7.	There was a small challenge faced while doing this project. I initially created some of my graphs in Tableau . But Tableau scripts were not rendering with the expected size     in shorthand. The graph sizes appeared to be very small and hence I created all the graphs using flourish.
+8.	There was another point mentioned during critique that it wasn’t clear what RMG means and I added the acronym of RMG in my story.
+9.	I also reduce the GIF’s from the final slide to make it look subtle. 
+10.	I tried to maintain consistency with respect to font, style and color throughout the story.
+11.	The audience for my story is literally everyone who wants to improve their general knowledge. 
+12.	I have also added a call to action where I mention that Bangladesh has many other goals to accomplish.
 
 Reference material used : 
 https://statisticstimes.com/economy/projected-world-gdp-ranking.php 
