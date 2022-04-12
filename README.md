@@ -1,5 +1,4 @@
-# portfolio
-Ishita Palchoudhury's Portfolio
+# Welcome to my github page
 
 # About me
 
@@ -43,3 +42,5 @@ I chose green color as i identify green color with money and it would fit the co
 
 # Final Project in Shorthand
 <a href="https://carnegiemellon.shorthandstories.com/bangladesh/index.html" target="_blank">Click here to view my final project in Shorthand</a>
+
+# Thank you for taking the time out to read through about me.
