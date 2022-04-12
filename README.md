@@ -10,7 +10,7 @@ I have spent the last 4 years working on Sales cloud platform of Salesforce CRM.
 
 Data visualization and presentation techniques are very important in todays times. Data visualization can be an extremely useful skill to have for presentations to managers/seniors/leaderships, negotiations with clients to prove a point. I strongly believe that data visualization is one of the most important skill to have and i hope that i am able to harness this skill of mine during this course and come out as someone who has strong ability to tell stories with data.
 
-# Portfolio
+# Data visualizations 
 
 You can view all my data visualization assignments and projects here. 
 
